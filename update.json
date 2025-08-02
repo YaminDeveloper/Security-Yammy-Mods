@@ -1,0 +1,38 @@
+{
+  "dialog_active": true,
+  "dialog_config": {
+    "title": "SECURITY UPDATE REQUIRED",
+    "changes_title": "Changes:",
+    "button_text": "RE-DOWNLOAD",
+    "owner_info": "OFFICIAL OWNER YAMMY MODS ♅",
+    "status_valid": "Security Verified",
+    "status_invalid": "Security Alert: Invalid Signature",
+    "status_mismatch": "Warning: Signature Mismatch"
+  },
+  "app_updates": [
+    {
+      "app_name": "My Security App",
+      "package_name": "com.securityupdate",
+      "expected_sha_256": "YOUR_APPS_REAL_SHA256_SIGNATURE_HERE_OR_A_FAKE_ONE_FOR_TESTING",
+      "download_url": "https://t.me/your_download_link"
+    },
+    {
+      "app_name": "Update Admin",
+      "package_name": "com.adminpanel",
+      "expected_sha_256": "593B19DFB671550E262D3A49628B8DEDDA2A6736C9E0EA8580BD2264F26B2BF1",
+      "download_url": "https://t.me/link1"
+    },
+    {
+      "app_name": "Game Booster",
+      "package_name": "com.gamebooster.pro",
+      "expected_sha_256": "A1B2C3D4E5F6A7B8C9D0E1F2A3B4C5D6E7F8A9B0C1D2E3F4A5B6C7D8E9F0A1B2",
+      "download_url": "https://t.me/link2"
+    },
+    {
+      "app_name": "Photo Editor Max",
+      "package_name": "com.photoeditor.max",
+      "expected_sha_256": "00112233445566778899AABBCCDDEEFF0123456789ABCDEFFEDCBA9876543210",
+      "download_url": "https://t.me/link3"
+    }
+  ]
+}

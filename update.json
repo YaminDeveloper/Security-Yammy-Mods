@@ -18,7 +18,7 @@
     },
     {
       "app_name": "Update Admin",
-      "package_name": "com.adminpanel",
+      "package_name": "com.imaginstudio.imagetools.pixellab",
       "expected_sha_256": "593B19DFB671550E262D3A49628B8DEDDA2A6736C9E0EA8580BD2264F26B2BF1",
       "download_url": "https://t.me/+Yu2tSlqdKNszZjQ1"
     },
